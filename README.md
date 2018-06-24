@@ -1,21 +1,21 @@
 # IAV-GPS
 Preparing GPS files to be used in Google Earth\
-Written in Python 3.6\
+Written in Python 3.6
 
-The goal behind this project is to define the projection of three different shapefiles:\
+The goal behind this project is to define the projection of three different shapefiles:
     
-	PTOPO18 : Topographic Points\
-    LAMP18: Lampe\
-    REG18: Regard\
+	PTOPO18 : Topographic Points
+    LAMP18: Lampe
+    REG18: Regard
 	
-These points have been collected in the IAV using a GPS. The projection used is :\
+These points have been collected in the IAV using a GPS. The projection used is :
     
-	'Lambert Conformal Conique-Morocco Zone 1"\
+	Lambert Conformal Conique-Morocco Zone 1
 
 The professor forgot to give us the projection files, so i had to define the projection and reproject it to a projection that in\ order to display it properly in on top of Google Earth Pro.\
 The procedure is as follow:\
 
-    1- Make a backup for everything in the directory\
-    2- Define the projection for the three shapefiles\
-    3- Reproject the datasets to WGS 84\
+    1- Make a backup for everything in the directory
+    2- Define the projection for the three shapefiles
+    3- Reproject the datasets to WGS 84
     4- Plot the original files and the re-projected ones

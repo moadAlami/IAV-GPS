@@ -2,7 +2,7 @@
 Preparing GPS files to be used in Google Earth\
 Script written in Python 3.6\
 The goal behind this project is to define the projection of three different shapefiles:\
-    PTOPO18 : Topographic Points\
+    <tab>PTOPO18 : Topographic Points</tab>\
     LAMP18: Lampe\
     REG18: Regard\
 These points have been collected in the IAV using a GPS. The projection used is :\

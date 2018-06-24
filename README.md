@@ -18,4 +18,4 @@ The procedure is as follows :
     1- Make a backup for everything in the directory
     2- Define the projection for the three shapefiles
     3- Reproject the datasets to WGS 84
-    4- Plot the original files and the re-projected ones
+    4- Plot the original files and the re-projected ones in separate windows

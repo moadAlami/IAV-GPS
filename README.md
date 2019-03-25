@@ -12,7 +12,7 @@ These points have been collected in the IAV using a GPS. The projection used is 
     
 	Lambert Conformal Conique-Morocco Zone 1
 
-The professor forgot to give us the projection files, so i had to define the projection and reproject it to a projection that in order to display it properly in on top of Google Earth Pro.\
+The professor forgot to give us the projection files, so i had to define the projection and reproject it in order to display it properly on top of Google Earth Pro.\
 The procedure is as follows :
 
    1. Make a backup for everything in the directory
